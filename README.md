@@ -1,2 +1,2 @@
-# Aprendizado-Python
-Primeiro comando que aprendi na aula do CursoEmVideo
+Aprendizado-Python
+Todos os exercicios proposto do CursoEmVideo
