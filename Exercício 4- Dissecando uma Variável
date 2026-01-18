@@ -1,0 +1,17 @@
+#Exercício Python #004 - Dissecando uma Variável, Qauqluer coisa que for digitada pelo usuário mostrara as varias informações sobre ela.
+#n1 = int(input("Enter first number: "))
+#n2 = int(input("Enter second number: "))
+#soma = n1 + n2
+#print ('a soma entre', n1, 'e', n2, 'é igual a', soma)
+
+algo = input("Digite algo: ")
+print("O tipo primitivo desse valor é", type(algo))
+print("Só tem espaços?", algo.isspace())
+print("É um número?", algo.isnumeric())
+print("É alfabético?", algo.isalpha())
+print("É alfanumérico?", algo.isalnum())
+print("Está em maiúsculas?", algo.isupper())
+print("Está em minúsculas?", algo.islower())
+print("Está capitalizada?", algo.istitle())
+print("É decimal?", algo.isdecimal())
+print("É imprimível?", algo.isprintable())
